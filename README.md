@@ -1,2 +1,2 @@
 # MA70076_Data_Science
-MSc Data Science module at Imperial 
+Imperial Collage London | MSc in Statistics - Data Science module
